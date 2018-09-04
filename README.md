@@ -1,4 +1,4 @@
-# mongodb-docker-container
+# MongoDB container based on CentOS 7
 A Docker container running MongoDB v4.0. 
 Mongo's official Docker Hub repository doesnt provide a CentOS based container. You can use this one to quickly get MongoDB up and running on CentOS.
 
