@@ -1,5 +1,8 @@
 # mongodb-docker-container
-A docker container running MongoDB v4.0. MongoDB officially doesnt provide a CentOS based container running the widely popular NoSQL DB. So, I am sharing one with you.
+A Docker container running MongoDB v4.0. 
+Mongo's official Docker Hub repository doesnt provide a CentOS based container. You can use this one to quickly get MongoDB up and running on CentOS.
+
+Versions: CentOS 7, MongoDB 4.0
 
 Assumptions: Docker installed and running on your local host
 
